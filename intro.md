@@ -8,3 +8,4 @@ Welcome to our interactive story! In this story, you will be able to make choice
 
 [yes or no? if yes, follow the path for the next stage!](path.md)
 
+[if no you can click on a different option!](path-2.md)

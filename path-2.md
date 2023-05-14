@@ -1,0 +1,1 @@
+You decide to play it safe and run away from the mansion as fast as you can. You don't want to find out what's inside that spooky old house. As you turn to leave, you hear footsteps behind you. 
